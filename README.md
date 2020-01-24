@@ -1,4 +1,4 @@
-### Introduction to Computer Graphics
+# Introduction to Computer Graphics
 
 This repository contains two projects I have completed from scratch for SFU's CMPT361 - Intro to Computer Graphiccs
 
@@ -7,7 +7,7 @@ The projects include
   2. Basic RayTracer
   
   
-  ** FruitTetris: ** 
+### FruitTetris: 
   
  FruitTetris is a 2D Tetris clone combined with "falling fruit" for colour matching gameplay. In addition to clearing full rows like 
  standard Tetris, Fruit Tetris adds addionital complexities from Falling Fruits. Each tetromino defined by four blocks, now have a random colour 
@@ -33,7 +33,7 @@ The projects include
  By pressing 'D' or 'd' after entering pause mode, the player can turn on/off developer mode which enables the player to move around
  while there is no timer to force the piece down. 
 
-** Basic RayTracer: **
+### Basic RayTracer: 
 
 Basic RayTracer made from scratch using OpenGL with C++. This project involved learning sphere and plane intersection, Phong local lighting 
 illumination model used for combining ambient, diffuse and specular reflections, recursive raytracing, raycasting and refraction. 
