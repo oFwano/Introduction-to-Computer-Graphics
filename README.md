@@ -17,15 +17,15 @@ The projects include
  
  Controls
 
-  Up Arrow Key: Rotates the falling piece counter clockwise
-  Down Arrow Key: Moves the falling piece down by one block
-  Left Arrow Key: Moves the  falling piece to the left by one block
-  Right Arrow Key: Move the falling piece right by one block
+  ..* Up Arrow Key: Rotates the falling piece counter clockwise
+  ..* Down Arrow Key: Moves the falling piece down by one block
+  ..* Left Arrow Key: Moves the  falling piece to the left by one block
+  ..* Right Arrow Key: Move the falling piece right by one block
 
-  'D' or 'd': Toggle - Developer mode
-  'P' or 'p': Toggle - pauses the game.
-  'R' or 'r': Restarts the game.
-  'Q' or 'q': Closes the game window
+  ..* 'D' or 'd': Toggle - Developer mode
+  ..* 'P' or 'p': Toggle - pauses the game
+  ..* 'R' or 'r': Restarts the game
+  ..* 'Q' or 'q': Closes the game window
 
   Space Bar key: Moves the falling piece down until it is placed. Space bar is meant to be pressed only once, do not hold it.
 
