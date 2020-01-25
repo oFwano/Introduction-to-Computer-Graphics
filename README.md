@@ -17,7 +17,7 @@ The projects include
  
  Controls
 
-  ..* Up Arrow Key: Rotates the falling piece counter clockwise
+  ..- Up Arrow Key: Rotates the falling piece counter clockwise
   ..* Down Arrow Key: Moves the falling piece down by one block
   ..* Left Arrow Key: Moves the  falling piece to the left by one block
   ..* Right Arrow Key: Move the falling piece right by one block
@@ -30,7 +30,8 @@ The projects include
   Space Bar key: Moves the falling piece down until it is placed. Space bar is meant to be pressed only once, do not hold it.
 
  The game starts instantly upon opening the program. The player may pause with the by pressing 'P' or 'p'.
- By pressing 'D' or 'd' after entering pause mode, the player can turn on/off developer mode which enables the player to move around
+ By pressing 'D' or 'd' after entering pause mode, the player can turn on/off developer mode which enables the player to move 
+ around
  while there is no timer to force the piece down. 
 
 ### Basic RayTracer: 
