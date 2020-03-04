@@ -34,7 +34,7 @@ FruitTetris is a 2D Tetris clone combined with "falling fruit" for colour matchi
  By pressing 'D' or 'd' after entering pause mode, the player can turn on/off developer mode which enables the player to move 
  around while there is no timer to force the piece down. 
  
- ![alt text](https://github.com/oFwano/Introduction_to_Computer_Graphics/blob/master/FruitTetris/FruitTetris.png)
+ ![alt text](https://github.com/oFwano/Introduction_to_Computer_Graphics/blob/master/FruitTetris/FruitTetrisimg.png)
 
 ### Basic RayTracer: 
 
