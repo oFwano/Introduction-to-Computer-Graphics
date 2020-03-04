@@ -33,6 +33,8 @@ FruitTetris is a 2D Tetris clone combined with "falling fruit" for colour matchi
  The game starts instantly upon opening the program. The player may pause with the by pressing 'P' or 'p'.
  By pressing 'D' or 'd' after entering pause mode, the player can turn on/off developer mode which enables the player to move 
  around while there is no timer to force the piece down. 
+ 
+ ![alt text](https://gyazo.com/20ca64f4e66a24fa849c908c5e1a13bc)
 
 ### Basic RayTracer: 
 
